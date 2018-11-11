@@ -1,0 +1,108 @@
+/* blue: 00bdc7
+   pink: fa7dbe
+*/
+body {
+  font-family: 'Roboto Slab', serif;
+  font-size: 18px;
+  color: #000;
+  margin: 0;
+}
+
+p {
+  margin-bottom: 30px;
+  line-height: 40px;
+}
+
+img {
+  margin: 0;
+}
+
+nav {
+  float: right;
+  font-size: 13px;
+  text-transform: uppercase;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+nav li {
+  display: inline-block;
+  margin-left: 10px;
+  margin-top: 12px;
+}
+nav a {
+  color: #555;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1280px;
+  min-width: 220px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero {
+  color: #fff;
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding-top: 160px;
+  padding-bottom: 160px;
+  background-color: #fff;
+  background-image: url(images/work.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header {
+  padding: 20px;
+  border-bottom: 3px solid #fa7dbe;
+}
+
+footer {
+  color: #fff;
+  font-size: 14px;
+  background-color: #fa7dbe;
+  padding: 20px;
+}
+footer p {
+  margin: 0;
+}
+
+#search {
+  padding: 20px;
+}
+
+#resources{
+  padding: 20px;
+}
+
+.social {
+  float: right;
+}
+
+.button {
+  background-color: #00bdc7;
+  padding-top: 6px;
+  padding-right: 12px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+  color: #fff;
+  border-radius: 4px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.big {
+  font-size: 22px;
+  padding: 40px;
+}
+
+#about {
+    border-top: 5px solid #00bdc7;
+}
