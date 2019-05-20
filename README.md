@@ -1,5 +1,7 @@
-# hack-inclusive
+# Hack Inclusive
 Hack Inclusive is a space to search for inclusive Hackathons in your area and learn how to prepare yourself for one
+
+[Live Demo](https://shanicesmith98.github.io/hack-inclusive/)
 
 ## Inspiration
 Personally, I love Hackathons. I love tackling a challenge faced by my community and solving. Unfortunately, I only know few places that keep updates information on upcoming hackathons and not all of them are as inclusive as I'd like them to be.
